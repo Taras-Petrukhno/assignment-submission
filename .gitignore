@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+
+# Tests
+coverage/
+
+# Logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Next.js build output
+/.next
+
+# Static files cache (build artifacts)
+out/
+
+# Build output for Vercel or other deployment targets
+.vercel/
+.vitepress/dist/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sw?
+
+# Test files
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignoring TypeScript build artifacts
+*.tsbuildinfo
+
